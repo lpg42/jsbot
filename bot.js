@@ -12,11 +12,9 @@ const key = '<YOUTUBEAPIKEYGOESHERE>';
 const prefix = "/";
 
 /*///////////////////////////////////////////////////////////
- this bot is meant to be an easy to use 1 page script for 
- the common server owner. simply paste this file and the 
- package.json into a folder of your choice then head over
- to the readme for more detailed instructions. even info 
- about putting this in a folder will be there!
+ this bots core functino was deprecated. I'd say not only is this non functional, but it probably doesn't work
+ 
+ lets be honest though do you really want to even look at a JavaScript promise? its not to late to stop scrolling lol
 /////////////////////////////////////////////////////////*/
 
 //requirements for youtube api and discord api
