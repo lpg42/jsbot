@@ -12,7 +12,7 @@ const key = '<YOUTUBEAPIKEYGOESHERE>';
 const prefix = "/";
 
 /*///////////////////////////////////////////////////////////
- this bots core functino was deprecated. I'd say not only is this non functional, but it probably doesn't work
+ this bots core function was deprecated. I'd say not only is this non functional, but it probably doesn't work if you try to run it. the library it runs on got weird on us
  
  lets be honest though do you really want to even look at a JavaScript promise? its not to late to stop scrolling lol
 /////////////////////////////////////////////////////////*/
